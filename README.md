@@ -6,7 +6,7 @@ IdeaFlow is an idea-capture and occasional meeting-workflow project. It is being
 
 **Reconciliation pending.** An earlier intake/analyzer/operations code archive and a separate meeting-presenter release have been identified. The older intake implementation predates the latest workflow decision and must not be presumed to match production. No verified standalone source has been imported here yet.
 
-[Draft recovery PR #1](https://github.com/anevum/ideaflow/pull/1) preserves a compiled analyzer reference and synthetic tests. It is not the complete editable application or a deployment candidate; the other services and recovery checks remain outstanding.
+[Draft recovery PR #1](https://github.com/devonalanakins/ideaflow/pull/1) preserves a compiled analyzer reference and synthetic tests. It is not the complete editable application or a deployment candidate; the other services and recovery checks remain outstanding.
 
 ## Operating requirements
 
@@ -18,4 +18,4 @@ IdeaFlow is an idea-capture and occasional meeting-workflow project. It is being
 
 The current deployed service and private data remain outside this repository until verified transfer.
 
-Project index: [anevum/anevum](https://github.com/anevum/anevum) · Organization handoff: [GitHub reorganization](https://github.com/anevum/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Project index: [devonalanakins/anevum](https://github.com/devonalanakins/anevum) · Organization handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
