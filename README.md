@@ -1,4 +1,10 @@
+<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original IdeaFlow project illustration" width="100%" /></p>
+
 # IdeaFlow
+
+> **Public documentation note · November 3, 2026:** The default branch remains a recovery/documentation landing page. Older automated analysis workflows are not the current manual, on-demand direction. Reconcile source and privacy controls before describing a full application or release.
+
+[Recovery work](https://github.com/devonalanakins/ideaflow/pull/1) · [Development branches](https://github.com/devonalanakins/ideaflow/pulls)
 
 IdeaFlow is an idea-capture and occasional meeting-workflow project. It is being separated into its own public-safe source repository, independent of the private recordings and transcripts it may process.
 
@@ -18,4 +24,4 @@ IdeaFlow is an idea-capture and occasional meeting-workflow project. It is being
 
 The current deployed service and private data remain outside this repository until verified transfer.
 
-Project index: [Anevum project registry](https://github.com/devonalanakins/anevum) · Historical handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Portfolio context: [Devon Alan Akins](https://github.com/devonalanakins/anevum) · [October 2026 historical source handoff](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md). IdeaFlow remains independent of the Anevum creative studio.
