@@ -24,4 +24,4 @@ IdeaFlow is an idea-capture and occasional meeting-workflow project. It is being
 
 The current deployed service and private data remain outside this repository until verified transfer.
 
-Project index: [Anevum project registry](https://github.com/devonalanakins/anevum) · Historical handoff: [GitHub reorganization](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md)
+Portfolio context: [Devon Alan Akins](https://github.com/devonalanakins/anevum) · [October 2026 historical source handoff](https://github.com/devonalanakins/anevum/blob/main/handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md). IdeaFlow remains independent of the Anevum creative studio.
